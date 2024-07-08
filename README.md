@@ -32,7 +32,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 For any inquiries, please contact:
-- Your Name: [your.email@example.com](mailto:pratapavinesh2003@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pratapavinesh)
+- Name: [mail](mailto:pratapavinesh2003@example.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratapavinesh)
 
 ---
